@@ -81,3 +81,9 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+# In your `config.yaml` is a Module section:
+module:
+  imports: 
+    # Add the Wowchemy CMS module below, if it has not already been added:
+    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5
+    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5
