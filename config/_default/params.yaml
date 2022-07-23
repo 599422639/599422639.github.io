@@ -69,7 +69,7 @@ features:
   repository:
     url: 'https://github.com/<username>/<repository>'
     content_dir: content
-    branch: main
+    branch: master
   avatar:
     gravatar: false
     shape: circle
@@ -94,7 +94,7 @@ features:
 
 extensions:
   cms:
-    branch: main
+    branch: master
     local_backend: false
   academicons:
     enable: false
