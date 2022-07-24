@@ -1,17 +1,17 @@
 ---
-title: Display Jupyter Notebooks with Academic
-subtitle: Learn how to blog in Academic using Jupyter notebooks
 summary: Learn how to blog in Academic using Jupyter notebooks
 authors:
   - admin
+lastMod: 2019-09-05T00:00:00Z
+title: 声音设计作品
+subtitle: 包含（宣传片音效、技能音效、角色展示音效、UI音效）等
+date: 2019-02-05T00:00:00Z
 tags: []
 categories: []
 projects: []
-date: '2019-02-05T00:00:00Z'
-lastMod: '2019-09-05T00:00:00Z'
 image:
-  caption: ''
-  focal_point: ''
+  caption: ""
+  focal_point: ""
 ---
 
 ```python
