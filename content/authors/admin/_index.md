@@ -1,6 +1,7 @@
 ---
 title: 李洪超
-role: 数据科学家
+role: 游戏音频设计师
+avatar_filename: 飞书20220724-190937.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 social:
