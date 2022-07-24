@@ -1,9 +1,8 @@
 ---
 title: 李洪超
 role: 游戏音频设计师
-avatar_filename: 飞书20220724-190937.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+avatar_filename: ""
+bio: ""
 social:
   - icon: envelope
     icon_pack: fas
