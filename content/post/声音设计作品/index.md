@@ -6,7 +6,7 @@ summary: 宣传片音效、角色展示音效、技能音效、UI音效
 draft: false
 featured: false
 image:
-  filename: sound02.jpg
+  filename: ""
   focal_point: Smart
   preview_only: false
 ---
