@@ -4,9 +4,9 @@ role: 游戏音频设计师
 avatar_filename: ""
 bio: ""
 social:
-  - icon: weixin
+  - icon: bilibili
     icon_pack: fab
-    link: "599422639"
+    link: https://space.bilibili.com/109584666
 organizations: []
 superuser: true
 status:
