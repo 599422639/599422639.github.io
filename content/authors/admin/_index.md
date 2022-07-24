@@ -8,7 +8,7 @@ social:
     icon_pack: fab
     link: https://space.bilibili.com/109584666
 organizations: []
-email: 599422639@qq.com
+email: ""
 superuser: true
 status:
   icon: ☕️
