@@ -4,15 +4,9 @@ role: 游戏音频设计师
 avatar_filename: ""
 bio: ""
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: about/#contact
-  - icon: twitter
+  - icon: weixin
     icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
-    icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: "599422639"
 organizations: []
 superuser: true
 status:
