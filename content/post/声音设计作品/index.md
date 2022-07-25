@@ -24,4 +24,7 @@ image:
 
 ```
 {{< video library="true" src="xcp01.mp4" controls="yes" >}}
+{{< video library="true" src="xcp02.mp4" controls="yes" >}}
 ```
+
+## 技能
