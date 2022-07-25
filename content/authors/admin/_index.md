@@ -8,10 +8,10 @@ social:
     icon_pack: fab
     link: https://space.bilibili.com/109584666
     display:
-      header: true
+      header: false
 organizations: []
 email: ""
-superuser: false
+superuser: true
 status:
   icon: ☕️
 ---
