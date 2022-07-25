@@ -11,7 +11,7 @@ social:
       header: true
 organizations: []
 email: ""
-superuser: true
+superuser: false
 status:
   icon: ☕️
 ---
