@@ -17,4 +17,9 @@ image:
 
 角色展示音效
 
-<!--EndFragment-->**.**
+<!--EndFragment-->\*\*.\*\*
+
+```
+{{< video library="true" src="zhanshi01.mp4" controls="yes" >}}
+{{< video library="true" src="zhanshi_ls.mp4" controls="yes" >}}
+```
