@@ -13,7 +13,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-**1**<!--StartFragment-->
+<!--StartFragment-->
 
 角色展示音效
 
