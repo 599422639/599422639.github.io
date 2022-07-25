@@ -13,9 +13,12 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-1. ```
-   {{< video library="true" src="zhanshi01.mp4" controls="yes" >}}
+1. <!--StartFragment-->
+
+   角色展示音效
+
+   <!--EndFragment-->
+
    ```
-2. ```
-   {{< video library="true" src="xcp01.mp4" controls="yes" >}}
+   {{< video library="true" src="zhanshi01.mp4" controls="yes" >}}
    ```
