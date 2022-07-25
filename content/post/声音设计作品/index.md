@@ -27,4 +27,21 @@ image:
 {{< video library="true" src="xcp02.mp4" controls="yes" >}}
 ```
 
-## 技能
+## 技能类音效
+
+```
+{{< video library="true" src="jineng01.mp4" controls="yes" >}}
+{{< video library="true" src="jineng02.mp4" controls="yes" >}}
+```
+
+## 怪物语音
+
+```
+{{< video library="true" src="guaiwu01.mp4" controls="yes" >}}
+```
+
+## UI类音效
+
+```
+{{< video library="true" src="saiji01.mp4" controls="yes" >}}
+```
