@@ -5,7 +5,7 @@ avatar_filename: ""
 bio: ""
 social:
   - icon: bilibili
-    icon_pack: fab
+    icon_pack: ai
     link: https://space.bilibili.com/109584666
     display:
       header: true
