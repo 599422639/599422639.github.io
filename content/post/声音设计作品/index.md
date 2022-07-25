@@ -13,14 +13,14 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-# 角色展示音效
+## *角色展示音效*
 
 ```
 {{< video library="true" src="zhanshi01.mp4" controls="yes" >}}
 {{< video library="true" src="zhanshi_ls.mp4" controls="yes" >}}
 ```
 
-# 宣传片音效
+## *宣传片音效*
 
 ```
 {{< video library="true" src="xcp01.mp4" controls="yes" >}}
