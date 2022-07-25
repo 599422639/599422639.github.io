@@ -1,7 +1,7 @@
 ---
 title: 李洪超
 role: 游戏音频设计师
-avatar_filename: ""
+avatar_filename: 飞书20220724-190937.jpg
 bio: ""
 social:
   - icon: bilibili
