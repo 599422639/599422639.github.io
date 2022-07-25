@@ -13,11 +13,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-<!--StartFragment-->
-
-角色展示音效
-
-<!--EndFragment-->
+# 角色展示音效
 
 ```
 {{< video library="true" src="zhanshi01.mp4" controls="yes" >}}
