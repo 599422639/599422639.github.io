@@ -7,6 +7,8 @@ social:
   - icon: bilibili
     icon_pack: fab
     link: https://space.bilibili.com/109584666
+    display:
+      header: true
 organizations: []
 email: ""
 superuser: true
